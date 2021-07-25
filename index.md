@@ -3,7 +3,7 @@
 <title>Grow Cam</title>
 <style>
 html,body{margin:0;background-color:black;}
-img{position:absolute;top:50%;left:50%;margin-top:-300px;margin-left:-400px;}
+img{position:absolute;top:50%;left:50%;margin-top:-540px;margin-left:-720px;}
 </style>
 </head>
 <body>
