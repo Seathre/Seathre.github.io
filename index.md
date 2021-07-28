@@ -8,6 +8,6 @@ img{position:relative;max-height:720px !important;max-width:1280px !important;he
 </style>
 </head>
 <body>
-  <img src="http://67.248.213.146:8080/video" />
+  <img src="http://67.248.158.156:8080/video" />
 </body>
 </html>
